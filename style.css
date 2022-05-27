@@ -1,10 +1,33 @@
-body{
-    background: #222831;
-  };
-
-h1{
-    color: #FFD369;
-    margin-top: 0;
-    font-family: 'Sacramento' cursive;
-    
+body {
+    background-color: #222831;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
+  /*----------------NAVIGATION BAR--------------------*/
+
+  /* Add a white background color to the top navigation*/
+.topnav {
+    background-color: #EEEEEE;
+    overflow: hidden;
+}
+
+/* style links inside the navigation bar */
+.topnav a {
+    float: right;
+    color: #222831;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #393E46;
+    color: #FFD369;
+}
+
+/* ---------------  ---------------- */
