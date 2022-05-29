@@ -6,8 +6,8 @@ img {
 }
 
 body {
-    background-color: #222831;
-    color: #FFD369;
+    background-color: #FCF8EC;
+    color: #4baecf;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
@@ -30,14 +30,14 @@ h3 {
 
   /* Add a white background color to the top navigation*/
 .topnav {
-    background-color: #EEEEEE;
+    background-color: #FCF8EC;
     overflow: hidden;
 }
 
 /* style links inside the navigation bar */
 .topnav a {
     float: right;
-    color: #222831;
+    color: #4baecf;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -45,9 +45,9 @@ h3 {
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #393E46;
-    color: #FFD369;
+.topnav a:hover {   
+    background: linear-gradient(#4baecf, #FCF8EC);
+    color: #222831;
 }
 
 /* ---------------  ---------------- */
