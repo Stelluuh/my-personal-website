@@ -9,12 +9,12 @@ body {
     background-color: #FCF8EC;
     color: #4baecf;
     margin: 0;
-    text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
 }
 
 h1 {
     font-family: 'Sacramento', cursive;
+    text-align: center;
 }
 
 h2 {
@@ -23,6 +23,10 @@ h2 {
 
 h3 {
     font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    text-align: center;
 }
 
 
@@ -47,8 +51,8 @@ h3 {
 
 /* Change the color of links on hover */
 .topnav a:hover {   
-    background: linear-gradient(#4baecf, #FCF8EC);
-    color: #222831;
+    background: linear-gradient(#79A3B1, #D0E8F2);
+    color: #FCF8EC;
 }
 
 /* ---------------  ---------------- */
